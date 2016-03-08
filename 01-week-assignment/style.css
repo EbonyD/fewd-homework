@@ -1,0 +1,39 @@
+body {
+  background-color: #e0ebeb;
+  font-size: 18px;
+font-family: helvetica,
+}
+
+
+p {
+font-size: 18px;
+color: black;
+}
+
+a {
+text-decoration: none;
+color: black;
+
+}
+a:hover {
+color: white;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: italic;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+
+    img  {
+    float: right;
+}
