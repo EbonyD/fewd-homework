@@ -168,6 +168,8 @@ footer {
 footer .logo {
   color: #f9e42e;
   margin-bottom: 68px;
+ padding-left: 0px;
+
 }
 footer ul li {
   display: inline-block;
@@ -180,9 +182,9 @@ footer p {
   color: #fff;
   font-style: semi-bold;
   font-weight: 600;
+  margin-top: 25px;
 }
 
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
-a
