@@ -211,11 +211,7 @@ h2 a {
   font-size: 14px;
 }
 
-footer {
-  background-color: #0B0E0E;
-  color: white;
-  height: 300px;
-}
+
 
 
 #bottom-cta {
@@ -226,17 +222,23 @@ footer {
 }
 
 
+footer {
+  background-color: #0B0E0E;
+  height: 300px;
+  padding: 65px 0 45px;
+}
+
 footer .logo {
   color: #f9e42e;
   margin-bottom: 68px;
- padding-left: 0px;
+
+
 }
 
 footer ul li {
   display: inline-block;
   list-style: none;
-  margin: 0 26px 75px;
-  padding: 20px 0px 0px 0px;
+
 }
 
 footer p {
