@@ -81,21 +81,34 @@ header .logo {
   font-size:32px;
 }
 
-header nav {
-    float: right;
-    margin-top: 15px
+nav {
+    text-align: right;
+    margin-right: 80px
 }
 
-header nav ul li {
+nav ul {
+    margin: 0;
+    margin-top: 20px;
+    padding: 0;
     display: inline-block;
-    margin: 0 13 0 30px;
-    font size: 15px;
+    list-style-type: none;
 }
 
-header nav ul li a{
-    color: #f9e42e;
+nav li {
+    float: left;
 }
-/*end navbar*/
+
+nav a {
+    display: block;
+    /*background: #990000;*/
+    color: #f8e53b;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background: #111;
+}
 
 .main {
   margin-top: 10px;
