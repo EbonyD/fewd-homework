@@ -191,10 +191,7 @@ h2 a {
   margin: 0 auto;
 }
 
-.yellow {
-  background: #f9e42e;
-  color: #033048;
-}
+
 .blue {
   background: #033048;
   color: #fff;
@@ -208,11 +205,11 @@ footer {
 }
 
 
-#buttom-cta {
+#bottom-cta {
   background: #f9e42e;
-  padding: 0px;
+  padding: 30px;
   text-align: center;
-  margin-top: 60px;
+  margin-top: 50px;
 }
 
 
