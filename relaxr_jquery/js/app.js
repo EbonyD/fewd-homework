@@ -9,6 +9,8 @@ function showAdditionalText(){
   // this is the code that runs when you run the showAdditionalText function:
 
 $("#show-this-on-click").slideDown()
+$(".readmore").hide()
+$(".readless").show()
 event.preventDefault() //Prevents browser from scrolling to the top when clicking
 
 }
